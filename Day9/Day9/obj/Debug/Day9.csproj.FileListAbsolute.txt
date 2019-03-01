@@ -1,0 +1,6 @@
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\bin\Debug\Day9.exe.config
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\bin\Debug\Day9.exe
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\bin\Debug\Day9.pdb
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\obj\Debug\Day9.csproj.CoreCompileInputs.cache
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\obj\Debug\Day9.exe
+E:\ITI\Hacker Rank\Java\30 days of code\Day9\Day9\obj\Debug\Day9.pdb
